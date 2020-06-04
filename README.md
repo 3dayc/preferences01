@@ -1,4 +1,4 @@
-https://quirky-leavitt-601ce9.netlify.app
+https://front-end-01.netlify.app
 
 # SCSS Masterclass
 
